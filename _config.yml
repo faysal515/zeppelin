@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "700+", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "700", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "40+", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from startup & tech companies"}
+ - {count: "40", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from startup & tech companies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

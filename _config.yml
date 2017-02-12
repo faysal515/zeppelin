@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "droidcon Dhaka 2017"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "droidcon  is a set of events all around the world for Android"
 baseurl: "/zeppelin"
 url: "https://faysal515.github.io"
 permalink: "/blog/:title"
@@ -24,20 +24,20 @@ permalink: "/blog/:title"
 organizerName: "DOS ICT Solutions"
 organizerAlternateName: "Dreamogrammers"
 #organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "suncha629@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, droidcon, devfest, dhaka, programming, android, developers, bd"
+twitterAccount: "@droidconDHK"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "droidcon Dhaka 2017"
 eventDate: "5-6 May, 2017"
-typeoutTextValues: '"", "Season", "BD", "Dhaka"'
+typeoutTextValues: '"BD", "Dhaka"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -91,18 +91,18 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Krishibid Institution Bangladesh (KIB)"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventLocationLink: "https://www.google.com.bd/maps/place/Krishibid+Institution+Bangladesh/@23.7593651,90.3831624,17z/data=!4m12!1m6!3m5!1s0x3755b8a6311f9789:0xacd22cb23304d44c!2sKrishibid+Institution+Bangladesh!8m2!3d23.7593651!4d90.3853564!3m4!1s0x3755b8a6311f9789:0xacd22cb23304d44c!8m2!3d23.7593651!4d90.3853564?hl=en"
+eventStreetAddress: "Khamarbari, 1215 Dhaka, Bangladesh"
+#eventAddressLocality: "Lviv"
+#eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "1215"
+eventAddressCountry: "Bangladesh"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "23.759385, 90.385603"
+mapCenterCoordinates: "23.759385, 90.385603"
+mapMobileCenterCoordinates: "23.759385, 90.385603"
 
 # Venue Block
 venueBlockTitle: "Venue"

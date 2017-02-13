@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "droidcon Dhaka 2017"
-email: "devfest@gdg.org.ua"
+email: "suncha629@gmail.com"
 description: "droidcon  is a set of events all around the world for Android"
 baseurl: "/zeppelin"
 url: "https://faysal515.github.io"
@@ -109,8 +109,8 @@ venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+#venueSmallImage3: "venue_3.jpg"
+venueTitle: "Krishibid Institution Bangladesh"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -252,7 +252,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"

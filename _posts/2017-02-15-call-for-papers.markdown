@@ -4,7 +4,9 @@ title:  "Call for Papers"
 date:   2017-02-10 09:00:00
 isStaticPost: false
 ---
-droidcon Dhaka 2017 will be held 5-6 th of May in Bangladesh,Dhaka. If you want to be part of this great event as a speaker you knocked at the good door.
+Are you an expert in developing apps and services for Android platform or IOT devices? Do you want to share the best practices that can help build gigantic apps in a proper manageable way. We’d love to hear from you back. Probably you are an ideal fit for our upcoming country’s largest Android developer conference: **droidcon Dhaka 2017**
+
+droidcon Dhaka 2017 will be held in  the 5th and 6th of May in Dhaka, Bangladesh.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -19,15 +21,18 @@ If you belong to one of those groups you are cordially invited to submit a talk 
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
 ##### Android
+* Libraries
+* Frameworks
+* UI/UX
+* Wear
+* TV
+* Best practices
+* Performance optimizations
+* Security
+* Tooling
+* VR
+* Testing
 
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
 
 __General__
 
@@ -36,16 +41,6 @@ __General__
 * Android Animations
 * Patterns in Android development
 
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
 ##### Cloud
 
 * Google Cloud Platform
@@ -53,15 +48,12 @@ __General__
   * App Engine
   * Storages (SQL, NoSQL, BigData)
   * APIs
-* Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+#### Please submit your proposals [here](https://docs.google.com/forms/d/11FNVS0F8fRJjM74jJc7u6oIur8xzekUo0RZZhMQCSEU/edit).
+__Deadline__ is April 15, 2017
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [sunnat@droidcon.com](mailto:suncha629@gmail.com)

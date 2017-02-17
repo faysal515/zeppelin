@@ -14,7 +14,7 @@ title: "droidcon Dhaka 2017"
 email: "suncha629@gmail.com"
 description: "droidcon  is a set of events all around the world for Android"
 baseurl: ""
-url: "https://faysal515.github.io"
+#url: "https://faysal515.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -26,7 +26,7 @@ organizerAlternateName: "Dreamogrammers"
 #organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "suncha629@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://dreamogrammers.com/"
 
 # Head
 metaKeywords: "event, droidcon, devfest, dhaka, programming, android, developers, bd"
@@ -174,32 +174,32 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=droidconDHK", icon: "twitter"}
+ - {link: "https://www.facebook.com/droidconDHK/", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://droidcon.com.bd", text: "droidcon.com.bd"}
+   #- {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:suncha629@gmail.com", text: "suncha629@gmail.com"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+  #title: "FAQ"
+  #links:
+  # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+#discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"

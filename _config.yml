@@ -182,8 +182,8 @@ BTticketsTitle: "Booth Pricetable"
 BTticketsInfo: "Tickets grant access up to three entry ticket, Lunch & agreed stall position"
 BTticketsOffers:
  -
-  name: "BT early"
-  price: "1500"
+  name: "Startup"
+  price: "25000"
   priceCurrency: "BDT"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -193,8 +193,8 @@ BTticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: " BT Last Chance"
-  price: "2000"
+  name: "Innovative Projects"
+  price: "25000"
   priceCurrency: "BDT"
   ticketsNumber: "400"
   ribbon: "-20%"
@@ -206,16 +206,16 @@ BTticketsOffers:
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "BT Student"
-  price: "1000"
+  name: "Company"
+  price: "25000"
   priceCurrency: "BDT"
   ticketsNumber: "200"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  #validFrom: "2014-08-20T10:00"
+  #validThrough: "2014-10-23T23:59"
   soldOut: false
   #soldOutText: "Sold Out"
 

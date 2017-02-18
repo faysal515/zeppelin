@@ -14,8 +14,8 @@ title: "droidcon Dhaka 2017"
 email: "suncha629@gmail.com"
 description: "droidcon  is a set of events all around the world for Android"
 baseurl: ""
-url: "https://faysal515.github.io"
-permalink: "/blog/:title"
+#url: "https://faysal515.github.io"
+permalink: "/news/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -26,7 +26,7 @@ organizerAlternateName: "Dreamogrammers"
 #organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "suncha629@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://dreamogrammers.com/"
 
 # Head
 metaKeywords: "event, droidcon, devfest, dhaka, programming, android, developers, bd"
@@ -36,48 +36,49 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/intVcKWteHfOpt773"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "droidcon Dhaka 2017"
+heroTitle: "droidcon Dhaka "
 eventDate: "5-6 May, 2017"
-typeoutTextValues: '"BD", "Dhaka"'
+typeoutTextValues: '"2017"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
-
+ - {link: "/#", text: "Become a Sponsor"}
+ - {permalink: "/#tickets", text: "Buy ticket"}
+ - {permalink: "/#tickets", text: "Become a Stall Owner"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Apply for speaker"}
 # About Block
 aboutTitle: "About droidcon Dhaka"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "More than 25 foreigners and local but well known in the tech world speakers will take seminar with Android, IOT, Cloud etc based topic." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Exhibition", image: "hackathon.jpg", text: "More than 40 start-ups and companies including the sponsors will show their products and projects to the audience." }
+ - {title: "Exhibition", image: "hackathon.jpg", text: "More than 30 start-ups and companies including the sponsors will show their products and projects to the audience." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "700", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Android technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "40", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from startup & tech companies"}
+ - {count: "30", specialCharacter: "+", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -91,7 +92,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Krishibid Institution Bangladesh (KIB)"
-eventLocationLink: "https://www.google.com.bd/maps/place/Krishibid+Institution+Bangladesh/@23.7593651,90.3831624,17z/data=!4m12!1m6!3m5!1s0x3755b8a6311f9789:0xacd22cb23304d44c!2sKrishibid+Institution+Bangladesh!8m2!3d23.7593651!4d90.3853564!3m4!1s0x3755b8a6311f9789:0xacd22cb23304d44c!8m2!3d23.7593651!4d90.3853564?hl=en"
+eventLocationLink: "https://www.google.com.bd/maps/place/Krishibid+Institution+Bangladesh/@23.7593651,90.3831624,17z/`=!4m12!1m6!3m5!1s0x3755b8a6311f9789:0xacd22cb23304d44c!2sKrishibid+Institution+Bangladesh!8m2!3d23.7593651!4d90.3853564!3m4!1s0x3755b8a6311f9789:0xacd22cb23304d44c!8m2!3d23.7593651!4d90.3853564?hl=en"
 eventStreetAddress: "Khamarbari, 1215 Dhaka, Bangladesh"
 #eventAddressLocality: "Lviv"
 #eventAddressLocalityRegion: "Lvivska"
@@ -111,13 +112,13 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Krishibid Institution Bangladesh"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["4 Training Room","1 3D Room","2 Floors will be full of Stalls"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "droidconDHK"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -128,17 +129,63 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://droidcon.us15.list-manage.com/subscribe?u=5250d51c13d02cb9c2617467f&id=c3061856d2"
-subscribeInfo: "Registration will be open around end of April. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be closed around end of April. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  name: "VIP"
+  price: "3000"
+  priceCurrency: "BDT"
+  ticketsNumber: "100"
+  ribbon: "-30%"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session"]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
+ -
+  name: "Regular"
+  price: "2000"
+  priceCurrency: "BDT"
+  ticketsNumber: "400"
+  ribbon: "-30%"
+  featured: true
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Can attend both days", "Access to enter any session"]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "1000"
+  priceCurrency: "BDT"
+  ticketsNumber: "200"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ribbon: "-30%"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Requires a valid student ID","Access to both days" ]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
+  soldOut: false
+  #soldOutText: "Sold Out"
+
+
+# Booth Tickets Block
+BTticketsTitle: "Booth Pricetable"
+BTticketsInfo: "Tickets grant access up to three entry ticket, Lunch & agreed stall position"
+BTticketsOffers:
+ -
+  name: "BT early"
+  price: "1500"
+  priceCurrency: "BDT"
+  ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -146,10 +193,10 @@ ticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
+  name: " BT Last Chance"
+  price: "2000"
+  priceCurrency: "BDT"
+  ticketsNumber: "400"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -159,47 +206,47 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
+  name: "BT Student"
+  price: "1000"
+  priceCurrency: "BDT"
+  ticketsNumber: "200"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  soldOut: false
+  #soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=droidconDHK", icon: "twitter"}
+ - {link: "https://www.facebook.com/droidconDHK/", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://droidcon.com.bd", text: "droidcon.com.bd"}
+   #- {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:suncha629@gmail.com", text: "suncha629@gmail.com"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+  #title: "FAQ"
+  #links:
+  # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+#discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"

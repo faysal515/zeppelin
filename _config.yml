@@ -50,26 +50,27 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "droidcon Dhaka 2017"
+heroTitle: "droidcon Dhaka "
 eventDate: "5-6 May, 2017"
-typeoutTextValues: '"BD", "Dhaka"'
+typeoutTextValues: '"2017"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
+ - {link: "/#", text: "Become a Sponsor"}
+ - {permalink: "/#tickets", text: "Buy ticket"}
  - {permalink: "/#tickets", text: "Become a Stall Owner"}
- - {link: "#", text: "Apply for speaker"}
+ - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Apply for speaker"}
 # About Block
 aboutTitle: "About droidcon Dhaka"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "More than 25 foreigners and local but well known in the tech world speakers will take seminar with Android, IOT, Cloud etc based topic." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Exhibition", image: "hackathon.jpg", text: "More than 40 start-ups and companies including the sponsors will show their products and projects to the audience." }
+ - {title: "Exhibition", image: "hackathon.jpg", text: "More than 30 start-ups and companies including the sponsors will show their products and projects to the audience." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -77,7 +78,7 @@ statisticBlock:
  - {count: "700", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Android technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "40", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
+ - {count: "30", specialCharacter: "+", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -111,7 +112,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Krishibid Institution Bangladesh"
-venueFeatures: ["Conference: 20","Exhibition: 30","&& including the sponsors, universities, startup & tech companies"]
+venueFeatures: ["4 Training Room","1 3D Room","2 Floors will be full of Stalls"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -135,40 +136,43 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "1500"
+  name: "VIP"
+  price: "3000"
   priceCurrency: "BDT"
   ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "-30%"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session"]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
  -
-  name: "Last Chance"
+  name: "Regular"
   price: "2000"
   priceCurrency: "BDT"
   ticketsNumber: "400"
-  ribbon: "-20%"
+  ribbon: "-30%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Can attend both days", "Access to enter any session"]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
   disabled: true
  -
   name: "Student"
   price: "1000"
   priceCurrency: "BDT"
   ticketsNumber: "200"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
+  ribbon: "-30%"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Requires a valid student ID","Access to both days" ]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
   soldOut: false
   #soldOutText: "Sold Out"
 

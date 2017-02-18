@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Call for Speakers"
 date:   2017-02-10 09:00:00
 isStaticPost: false
 ---
@@ -48,6 +48,11 @@ __General__
   * App Engine
   * Storages (SQL, NoSQL, BigData)
   * APIs
+
+#### Hybrid
+* React Native
+* Ionic
+* Kotlin
 
 
 #### Please submit your proposals [here](https://docs.google.com/forms/d/11FNVS0F8fRJjM74jJc7u6oIur8xzekUo0RZZhMQCSEU/edit).

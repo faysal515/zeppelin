@@ -15,7 +15,7 @@ email: "suncha629@gmail.com"
 description: "droidcon  is a set of events all around the world for Android"
 baseurl: ""
 #url: "https://faysal515.github.io"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -43,7 +43,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
@@ -61,9 +61,9 @@ eventDate: "5-6 May, 2017"
 typeoutTextValues: '"BD", "Dhaka"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
-
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
+ - {permalink: "/#tickets", text: "Become a Stall Owner"}
+ - {link: "#", text: "Apply for speaker"}
 # About Block
 aboutTitle: "About droidcon Dhaka"
 aboutBlock:
@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "700", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Android technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "40", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from startup & tech companies"}
+ - {count: "40", specialCharacter: "", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Krishibid Institution Bangladesh"
-venueFeatures: ["4 Training Room","1 3D Room","2 Floors will be full of Stalls"]
+venueFeatures: ["Conference: 20","Exhibition: 30","&& including the sponsors, universities, startup & tech companies"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

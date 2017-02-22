@@ -61,7 +61,7 @@ eventDate: "5-6 May, 2017"
 typeoutTextValues: '"2017"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "/#", text: "Become a Sponsor"}
+ - {link: "https://drive.google.com/file/d/0B8-54xIJQag2V0dIS0x3aW1LSTA/view?usp=sharing", text: "Become a Sponsor"}
  - {permalink: "/#tickets", text: "Buy ticket"}
  - {permalink: "/#tickets", text: "Become a Stall Owner"}
  - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Apply for speaker"}
@@ -182,41 +182,43 @@ BTticketsTitle: "Booth Pricetable"
 BTticketsInfo: "Tickets grant access up to three entry ticket, Lunch & agreed stall position"
 BTticketsOffers:
  -
-  name: "Startup"
-  price: "25000"
+  name: "Tech Company"
+  price: "20000"
   priceCurrency: "BDT"
-  ticketsNumber: "100"
+  #ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Innovative Projects"
-  price: "25000"
-  priceCurrency: "BDT"
-  ticketsNumber: "400"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
   disabled: true
  -
-  name: "Company"
-  price: "25000"
+  name: "Startup Showcasing"
+  price: "12000"
+  priceCurrency: "BDT"
+  #ticketsNumber: "400"
+  ribbon: "-20%"
+  featured: true
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  disabled: true
+ -
+  name: "University Project Showcasing"
+  price: "10000"
   priceCurrency: "BDT"
   ticketsNumber: "200"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  #validFrom: "2014-08-20T10:00"
-  #validThrough: "2014-10-23T23:59"
-  soldOut: false
+  validFrom: "2017-02-25T10:00"
+  validThrough: "2017-03-05T23:59"
+  #soldOut: false
+  disabled: true
   #soldOutText: "Sold Out"
 
 # Footer

@@ -132,7 +132,7 @@ subscribeAction: "http://droidcon.us15.list-manage.com/subscribe?u=5250d51c13d02
 subscribeInfo: "Registration will be closed around end of April. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Ticket Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -144,8 +144,8 @@ ticketsOffers:
   #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session"]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   disabled: true
  -
   name: "Regular"
@@ -157,8 +157,8 @@ ticketsOffers:
   #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Can attend both days", "Access to enter any session"]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   disabled: true
  -
   name: "Student"
@@ -170,8 +170,8 @@ ticketsOffers:
   ribbon: "-30%"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Requires a valid student ID","Access to both days" ]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   disabled: true
   soldOut: false
   #soldOutText: "Sold Out"
@@ -183,40 +183,40 @@ BTticketsInfo: "Tickets grant access up to three entry ticket, Lunch & agreed st
 BTticketsOffers:
  -
   name: "Tech Company"
-  price: "20000"
-  priceCurrency: "BDT"
+  #price: "20000"
+  #priceCurrency: "BDT"
   #ticketsNumber: "100"
   ribbon: "-5%"
   #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   disabled: true
  -
   name: "Startup Showcasing"
-  price: "12000"
-  priceCurrency: "BDT"
+  #price: "12000"
+  #priceCurrency: "BDT"
   #ticketsNumber: "400"
   ribbon: "-20%"
   featured: true
   #buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   disabled: true
  -
   name: "University Project Showcasing"
-  price: "10000"
-  priceCurrency: "BDT"
+  #price: "10000"
+  #priceCurrency: "BDT"
   ticketsNumber: "200"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-02-25T10:00"
-  validThrough: "2017-03-05T23:59"
+  validFrom: "2017-03-03T10:00"
+  validThrough: "2017-03-15T23:59"
   #soldOut: false
   disabled: true
   #soldOutText: "Sold Out"

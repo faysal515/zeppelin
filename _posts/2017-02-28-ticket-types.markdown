@@ -16,7 +16,7 @@ isStaticPost: true
 - Swag Pack
 
 
-**Regular ticket -- 2,00 BDT**
+**Regular ticket -- 2,000 BDT**
 
 - Access to enter any session
 - Food (Both Day)

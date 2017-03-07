@@ -143,7 +143,7 @@ ticketsOffers:
   ribbon: "-30%"
   buyButtonLink: "https://goo.gl/forms/SPQ2hE3oID1yCbcx1"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session"]
+  ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session","Discount for first 20 people only till 20th March"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-03-22T23:59"
   disabled: false
@@ -152,11 +152,11 @@ ticketsOffers:
   price: "2000"
   priceCurrency: "BDT"
   ticketsNumber: "400"
-  ribbon: "-30%"
+  ribbon: "-25%"
   featured: true
   buyButtonLink: "https://goo.gl/forms/SPQ2hE3oID1yCbcx1"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Can attend both days", "Access to enter any session"]
+  ticketContentList: ["Can attend both days", "Access to enter any session","Discount for first 40 people only till 20th March"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-03-22T23:59"
   disabled: false
@@ -169,7 +169,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ribbon: "-20%"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Requires a valid student ID","Access to both days" ]
+  ticketContentList: ["Requires a valid student ID","Access to both days","Discount for first 80 people only till 20th March" ]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-03-22T23:59"
   disabled: false

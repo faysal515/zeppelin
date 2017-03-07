@@ -141,12 +141,12 @@ ticketsOffers:
   priceCurrency: "BDT"
   ticketsNumber: "100"
   ribbon: "-30%"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://goo.gl/forms/SPQ2hE3oID1yCbcx1"
   buyButtonText: "Buy Now"
   ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session"]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
-  disabled: true
+  validThrough: "2017-03-22T23:59"
+  disabled: false
  -
   name: "Regular"
   price: "2000"
@@ -154,25 +154,25 @@ ticketsOffers:
   ticketsNumber: "400"
   ribbon: "-30%"
   featured: true
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://goo.gl/forms/SPQ2hE3oID1yCbcx1"
   buyButtonText: "Buy Now"
   ticketContentList: ["Can attend both days", "Access to enter any session"]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
-  disabled: true
+  validThrough: "2017-03-22T23:59"
+  disabled: false
  -
   name: "Student"
   price: "1000"
   priceCurrency: "BDT"
   ticketsNumber: "200"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://goo.gl/forms/SPQ2hE3oID1yCbcx1"
   buyButtonText: "Buy Now"
   ribbon: "-20%"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Requires a valid student ID","Access to both days" ]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
-  disabled: true
+  validThrough: "2017-03-22T23:59"
+  disabled: false
   soldOut: false
   #soldOutText: "Sold Out"
 

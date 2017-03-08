@@ -128,7 +128,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://droidcon.us15.list-manage.com/subscribe?u=5250d51c13d02cb9c2617467f&id=c3061856d2"
+subscribeAction: "https://droidcon.us15.list-manage.com/subscribe?u=5250d51c13d02cb9c2617467f&id=c3061856d2"
 subscribeInfo: "Registration will be closed around end of April. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block

@@ -187,12 +187,12 @@ BTticketsOffers:
   #priceCurrency: "BDT"
   #ticketsNumber: "100"
   ribbon: "-5%"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: "#"
+  buyButtonText: "call 015 2010 2416"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
-  disabled: true
+  validThrough: "2017-04-25T23:59"
+  disabled: false
  -
   name: "Startup Showcasing"
   #price: "12000"
@@ -201,24 +201,24 @@ BTticketsOffers:
   ribbon: "-20%"
   featured: true
   #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "call 015 2010 2416"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
-  disabled: true
+  validThrough: "2017-04-25T23:59"
+  disabled: false
  -
   name: "University Project Showcasing"
   #price: "10000"
   #priceCurrency: "BDT"
-  ticketsNumber: "200"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  #ticketsNumber: "200"
+  buyButtonText: "call 015 2010 2416"
+  #buyButtonText: "Buy Now"
   #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
-  validThrough: "2017-03-15T23:59"
+  validThrough: "2017-04-25T23:59"
   #soldOut: false
-  disabled: true
+  disabled: false
   #soldOutText: "Sold Out"
 
 # Footer

@@ -4,6 +4,7 @@ gems:
 safe: false
 
 # Build Settings
+# ssh -i r.pem ubuntu@35.163.14.6
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
@@ -188,7 +189,7 @@ BTticketsOffers:
   #ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "#"
-  buyButtonText: "call 015 2010 2416"
+  buyButtonText: "info@dreamogrammers.com"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-04-25T23:59"
@@ -201,7 +202,7 @@ BTticketsOffers:
   ribbon: "-20%"
   featured: true
   #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "call 015 2010 2416"
+  buyButtonText: "info@dreamogrammers.com"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-04-25T23:59"
@@ -211,7 +212,7 @@ BTticketsOffers:
   #price: "10000"
   #priceCurrency: "BDT"
   #ticketsNumber: "200"
-  buyButtonText: "call 015 2010 2416"
+  buyButtonText: "info@dreamogrammers.com"
   #buyButtonText: "Buy Now"
   #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -237,6 +238,7 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:info@dreamogrammers.com", text: "info@dreamogrammers.com"}
+   - {link: "tel:01520102416", text: "01520102416"}
  -
   #title: "FAQ"
   #links:

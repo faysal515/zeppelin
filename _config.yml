@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "droidcon Dhaka 2017"
-email: "info@dreamogrammers.com"
+email: "info@droidcon.com.bd"
 description: "droidcon  is a set of events all around the world for Android"
 baseurl: ""
 #url: "https://faysal515.github.io"
@@ -189,7 +189,7 @@ BTticketsOffers:
   #ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "#"
-  buyButtonText: "info@dreamogrammers.com"
+  buyButtonText: "info@droidcon.com.bd"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-04-25T23:59"
@@ -202,7 +202,7 @@ BTticketsOffers:
   ribbon: "-20%"
   featured: true
   #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "info@dreamogrammers.com"
+  buyButtonText: "info@droidcon.com.bd"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-03T10:00"
   validThrough: "2017-04-25T23:59"
@@ -212,7 +212,7 @@ BTticketsOffers:
   #price: "10000"
   #priceCurrency: "BDT"
   #ticketsNumber: "200"
-  buyButtonText: "info@dreamogrammers.com"
+  buyButtonText: "info@droidcon.com.bd"
   #buyButtonText: "Buy Now"
   #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -237,7 +237,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@dreamogrammers.com", text: "info@dreamogrammers.com"}
+   - {link: "mailto:info@droidcon.com.bd", text: "info@droidcon.com.bd"}
    - {link: "tel:01520102416", text: "01520102416"}
  -
   #title: "FAQ"

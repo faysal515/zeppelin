@@ -1,11 +1,116 @@
+-
+  id: 1
+  name: "Anam"
+  surname: "Ahmed"
+  company: "Telenor Health AS"
+  title: "Senior Software Engineer, "
+  bio: "Anam had been coding for last twelve years. Loves JavaScript. Currently creates Scalable server Apps and Hybrid mobile Apps for Telenor Health."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/anam%20Ahmed.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 2
+  name: "Ershadul"
+  surname: "Hoque"
+  company: "Rise Up Labs"
+  title: "CEO"
+  bio: "Ershadul Hoque started his journey in mobile game development back in 2009 & founded RiseUpLabs with a mission of developing fun, challenging, no-cost unique games & apps in iOS, Android & Windows devices. With the success of Tap Tap Ants in iOS (millions of downloads and still counting), RiseUpLabs has became the forefront of game development industry in Bangladesh and one of the most well known game developers in the world."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Ershadul+Hoque.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 3
+  name: "Nazmul Hasan"
+  surname: "Masum"
+  company: "Ariana(USA) remote job"
+  title: "Freelancer"
+  bio: "I am oracle certified profesional java programmer (OCPJP). I have been working as an android developer for more than 4 years."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Nazmul+Hasan+Masum.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 4
+  name: "Tanvir"
+  surname: "Sourov"
+  company: "Socian Ltd."
+  title: "Cofounder & CEO"
+  bio: "Tanvir Sourov is a Tech Entrepreneur who has been working in the Startup Ecosystem of Bangladesh for the last 4 years. He also works on AI & Android Technology. He believes in a smart world where Technology and AI will prevail and make life easier."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Tanvir+Sourov.png"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 5
+  name: "Mohammad Samiul"
+  surname: "Islam"
+  company: "Cramstack"
+  title: "Cofounder & VP of Product"
+  bio: "He is very experienced in UX and UI design. Passionate about learning new technology and design trends."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Mohammad+Samiul+Islam.jpg"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 6
+  name: "Mosarrof Hossain"
+  surname: "Rubel"
+  company: "HandyMama.co Ltd"
+  title: "Senior Software Engineer"
+  bio: "Rubel is Lead Software Engineer at HandyMama.co ltd and Part Time Lecturer at Southeast University. He's a renounced mobile apps developer at Dhaka."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Mosarrof+Hossain.jpg"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 7
+  name: "Sayed Mahmudul"
+  surname: "Alam"
+  company: "Bluescheme Inc."
+  title: "Software Engineer"
+  bio: "Mahmud is a software engineer whose primary focus is mobile application development. He is very passionate about clean coding and wants to motivate others."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Sayed+Mahmudul+Alam.jpg"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 8
+  name: "Hazzaz"
+  surname: "Imtiaz"
+  company: "Ghuri Online Limited."
+  title: "Managing Director"
+  bio: "Full Stack mobile application developer for Android and iOS, with experience in all phases of the project lifecycle including requirements, documentation, UML modelling, solution design, native development, testing and backend development, Pixel perfect design to implementation. "
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Hazzaz+Imtiaz.jpg"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 9
+  name: "Khaled"
+  surname: "Saifullah"
+  company: "BDRates"
+  title: "Software Engineer"
+  bio: "Khaled Saifullah is a professional android app developer and trainer. He is now working as Android Developer in BDRates.com and Android Mentor in Coderstrust Bangladesh. Before joining BDRates.com he was working as Android Developer in MCC Ltd. He also gave training on android application development in different districts of Bangladesh (including Dhaka) under National Mobile Application Development Project by Ministry of ICT, Bangladesh. He was also an Instructor of Google Study Jam."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Khaled+Saifullah.jpg"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
 #-
-#  id: 3
-#  name: "Rockstar"
-#  surname: "Developer"
-#  company: "Bangladesh"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-#  thumbnailUrl: unknown.jpg
-#  rockstar: true
+#  id: 10
+#  name: "Sayed Mahmudul"
+#  surname: "Alam"
+#  company: "Bluescheme Inc."
+#  title: "Software Engineer"
+#  bio: "Mahmud is a software engineer whose primary focus is mobile application development. He is very passionate about clean coding and wants to motivate others."
+#  thumbnailUrl: "https://www.dropbox.com/s/04zyohvkhrkl04g/pic.jpg?dl=0"
+#  rockstar: false
 #  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

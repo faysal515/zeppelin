@@ -8,7 +8,7 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/anam%20Ahmed.jpg"
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "facebook", link: "https://facebook.com/theanam"}
 -
   id: 2
   name: "Ershadul"
@@ -19,7 +19,9 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Ershadul+Hoque.jpg"
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://www.facebook.com/erhoq"}
+    - {name: "twitter", link: "https://twitter.com/erhoq"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/riseuplabs/"}
 -
   id: 3
   name: "Nazmul Hasan"
@@ -30,7 +32,7 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Nazmul+Hasan+Masum.jpg"
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nazmul-hasan-masum-22293270/"}
 
 -
   id: 4
@@ -42,7 +44,10 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Tanvir+Sourov.png"
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://plus.google.com/117250439968548649034"}
+    - {name: "twitter", link: "https://twitter.com/Sourov00"}
+    - {name: "facebook", link: "https://www.facebook.com/sourov011"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tanvirsourov"}
 
 -
   id: 5
@@ -54,7 +59,8 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Mohammad+Samiul+Islam.jpg"
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "facebook", link: "www.facebook.com/samidagreat"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mohammad-samiul-islam-97976133/"}
 -
   id: 6
   name: "Mosarrof Hossain"
@@ -65,7 +71,9 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Mosarrof+Hossain.jpg"
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "facebook", link: "https://www.facebook.com/rubel007cse"}
+    - {name: "github", link: "http://github.com/rubel007cse"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rubel007cse"}
 
 -
   id: 7
@@ -77,7 +85,10 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Sayed+Mahmudul+Alam.jpg"
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sayed-mahmudul-alam-771263135"}
+    - {name: "github", link: "https://github.com/smalam119"}
+    - {name: "facebook", link: "https://www.facebook.com/khusbat119"}
+
 
 -
   id: 8
@@ -89,7 +100,7 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Hazzaz+Imtiaz.jpg"
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hazzaz-imtiaz-50046014/"}
 
 -
   id: 9
@@ -101,7 +112,8 @@
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Khaled+Saifullah.jpg"
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "facebook", link: "https://www.facebook.com/saifkhaledsaifullah"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/saifkhaledsaifullah/"}
 
 #-
 #  id: 10

@@ -30,7 +30,7 @@
   title: "Freelancer"
   bio: "I am oracle certified profesional java programmer (OCPJP). I have been working as an android developer for more than 4 years."
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Nazmul+Hasan+Masum.jpg"
-  rockstar: true
+  rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/nazmul-hasan-masum-22293270/"}
 
@@ -69,7 +69,7 @@
   title: "Senior Software Engineer"
   bio: "Rubel is Lead Software Engineer at HandyMama.co ltd and Part Time Lecturer at Southeast University. He's a renounced mobile apps developer at Dhaka."
   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Mosarrof+Hossain.jpg"
-  rockstar: false
+  rockstar: true
   social:
     - {name: "facebook", link: "https://www.facebook.com/rubel007cse"}
     - {name: "github", link: "http://github.com/rubel007cse"}

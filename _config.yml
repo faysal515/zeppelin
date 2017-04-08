@@ -69,16 +69,16 @@ heroButtons:
 # About Block
 aboutTitle: "About droidcon Dhaka"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "More than 25 foreigners and local but well known in the tech world speakers will take seminar with Android, IOT, Cloud etc based topic." }
+ - {title: "Conference", image: "conference.jpg", text: "More than 15 foreigners and local but well known in the tech world speakers will take seminar with Android, IOT, Cloud etc based topic." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Exhibition", image: "hackathon.jpg", text: "More than 30 start-ups and companies including the sponsors will show their products and projects to the audience." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "700", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Android technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "30", specialCharacter: "+", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
 
 # Latest News Block

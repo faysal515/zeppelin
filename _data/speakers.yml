@@ -22,17 +22,17 @@
     - {name: "google-plus", link: "https://www.facebook.com/erhoq"}
     - {name: "twitter", link: "https://twitter.com/erhoq"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/riseuplabs/"}
--
-  id: 3
-  name: "Nazmul Hasan"
-  surname: "Masum"
-  company: "Ariana(USA) remote job"
-  title: "Freelancer"
-  bio: "I am oracle certified profesional java programmer (OCPJP). I have been working as an android developer for more than 4 years."
-  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Nazmul+Hasan+Masum.jpg"
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nazmul-hasan-masum-22293270/"}
+# -
+#   id: 3
+#   name: "Nazmul Hasan"
+#   surname: "Masum"
+#   company: "Ariana(USA) remote job"
+#   title: "Freelancer"
+#   bio: "I am oracle certified profesional java programmer (OCPJP). I have been working as an android developer for more than 4 years."
+#   thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Nazmul+Hasan+Masum.jpg"
+#   rockstar: false
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/nazmul-hasan-masum-22293270/"}
 
 -
   id: 4

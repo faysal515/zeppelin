@@ -6,7 +6,9 @@
 -
   group: "Media Partners"
   elements:
+    - {name: "Priyo", description: "Priyo", link: "https://www.facebook.com/priyodotcom/", imageUrl: "priyo.png", width: "120px"}
     - {name: "Radio Ekattor", description: "Ekattor", link: "https://www.facebook.com/radioekattorfm98.4", imageUrl: "ekattor.png", width: "120px"}
+
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 #-

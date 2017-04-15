@@ -115,14 +115,96 @@
     - {name: "facebook", link: "https://www.facebook.com/saifkhaledsaifullah"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/saifkhaledsaifullah/"}
 
-#-
-#  id: 10
-#  name: "Sayed Mahmudul"
-#  surname: "Alam"
-#  company: "Bluescheme Inc."
-#  title: "Software Engineer"
-#  bio: "Mahmud is a software engineer whose primary focus is mobile application development. He is very passionate about clean coding and wants to motivate others."
-#  thumbnailUrl: "https://www.dropbox.com/s/04zyohvkhrkl04g/pic.jpg?dl=0"
-#  rockstar: false
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 10
+  name: "Foyzul"
+  surname: "Karim"
+  company: "Code Coopers"
+  title: "CEO"
+  bio: "Foyzul is currently working as a Senior Software Engineer at Cefalo, but he  manages his own startup Code Coopers in the rest of his time. He is enthusiast on learning new things which can be used and help the community. He has been in active software development in more than 8 years and his core expertise are on .NET and TypeScript. He loves to design secured scalable systems. He also loves to giving lectures on technologies and have been creating videos in YouTube for more than 4 years."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/foyzul+Karim.jpg"
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/foyzulkarim"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/foyzul"}
+
+-
+  id: 11
+  name: "Sheikh"
+  surname: "Abujar"
+  company: "Britannia University"
+  title: "Lecturer"
+  bio: "Every application is a result of distinguished research.We always develop, research based apps for English Language. Though it's high time to do research on possible Bangla Language Applications and develop as well. Our Language - Our Pride! 'No one else, from other countries will come to develop Apps for our own language'"
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/shekkh.jpg"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sheikhabujar"}
+
+-
+  id: 12
+  name: "Zahidur Rahman"
+  surname: "Faisal"
+  company: "SnT Bangladesh Ltd"
+  title: "Sr. Android Engineer"
+  bio: "Zahidur Rahman Faisal is a Mobile Application Developer with years of experience in different mobile platform and technology, started from J2ME to latest Android versions.He loves to explore new technologies and implement them on his work."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/zahidur+rahman+faysal.png"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/zr.faisal"}
+    - {name: "github", link: "https://github.com/zr-faisal"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zahidur-rahman-faisal-10552b33"}
+
+-
+  id: 13
+  name: "Mehedi Hasan"
+  surname: "Khan"
+  company: "Dhrubok Infotech Services Ltd, Credntia LLC"
+  title: "Managing Director, Lead Developer"
+  bio: "Based in Dhaka, Bangladesh, Mehedi is a Software Engineer, Tech enthusiast and Entrepreneur. He has done his B.Sc in computer science and engineering from BUET and has worked as a mobile developer, software architect, project manager and  entrepreneur over the last 4 years.  Currently working as the Managing Director of Dhrubok Infotech Services Ltd, a mobile oriented software development company; he envisions to help and empower people through mobile first software solutions."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/mehedi+Hasan+Khan.jpg"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/Md.M.H.Khan"}
+    - {name: "github", link: "https://github.com/iamMehedi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/immehedi"}
+
+-
+  id: 14
+  name: "Seikh Tanzir"
+  surname: "Hossain"
+  company: "ICT Division Bangladesh"
+  title: "Lead Trainer, CBMGDP & LEDP"
+  bio: "Seikh Tanzir Hossain is currently working as the Lead Trainer of The Capacity Building for Mobile Game Development Program, Learning and Earning Development Program of ICT Division, Bangladesh & as the Ambassador of Google Developer Group, Dhaka, Chief of Software Engineering Department at Gigantic Inc. Sydney, certified developer by Google. People call him expert in the field where he has passion, always wants to focus on technical skills more than being only bookish. He is from Ahsanullah University of Science and Technology where he leads the Google Developer Group, Facebook Developer Circle, Apple Developer Group and Different Technical groups."
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Sheikh+Tanzir+Hossain.jpg"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/seikhtanzir"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/seikh-tanzir/"}
+    - {name: "twitter", link: "https://twitter.com/seikhtanzir"}
+
+
+-
+  id: 15
+  name: "Shahriar"
+  surname: "Hossain"
+  company: "Microsoft"
+  title: "Microsoft MVP"
+  bio: "Shahriar Hossain  is  a  Microsoft  MVP  in  Azure  category  who  is  currently  employed  as  a  .Net  solution developer  in InsightInTechnology,  one  of  the leading  IT  outsourcing  companies  in  Bangladesh,  where  he  focuses  on developing enterprise grade web application. He is a seasoned trainer and consultant. He spends his spare time writing technical blogs and organizing tech events.He is a regular speaker at Microsoft events and local user group meetings in Bangladesh. He is also the key driving person behind the “Microsoft Azure Bangladesh” user group. Back in 2012 he authored “Microsoft Silverlight for Windows Phone” which was the first Bangla eBook on Windows Phone. While doing undergraduate his team participated in Imagine Cup and they ended up as a National runner up team. He continues to give back to Microsoft Imagine Cup, most recently serving as a judge at the Imagine Cup 2016 Bangladesh National Final"
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/shariar.jpg"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/shahriar.cse"}
+    - {name: "twitter", link: "https://twitter.com/shossain_tweet"}
+
+
+-
+  id: 16
+  name: "Saimoom"
+  surname: "Safayet"
+  company: "MCC Ltd"
+  title: "Softwre Engineer"
+  bio: "Currently working as a Software Engineer at MCC Ltd. His main responsibility is to make machine learning driven systems for various apps and products. He is also a developer of some popular facebook Bots and an expert in facebook Graph API"
+  thumbnailUrl: "https://s3.ap-south-1.amazonaws.com/faysal-dev/speakers/Saimun+Shafat.jpg"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/saimoomsafayet"}

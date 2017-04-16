@@ -62,10 +62,10 @@ eventDate: "5-6 May, 2017"
 typeoutTextValues: '"2017"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://drive.google.com/file/d/0B8-54xIJQag2V0dIS0x3aW1LSTA/view?usp=sharing", text: "Become a Sponsor"}
+ #- {link: "https://drive.google.com/file/d/0B8-54xIJQag2V0dIS0x3aW1LSTA/view?usp=sharing", text: "Become a Sponsor"}
  - {permalink: "/#tickets", text: "Buy ticket"}
- - {permalink: "/#tickets", text: "Become a Stall Owner"}
- - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Apply for speaker"}
+# - {permalink: "/#tickets", text: "Become a Stall Owner"}
+# - {link: "https://goo.gl/forms/intVcKWteHfOpt773", text: "Apply for speaker"}
 # About Block
 aboutTitle: "About droidcon Dhaka"
 aboutBlock:
@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of pure Android technologies"}
  - {count: "15", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "30", specialCharacter: "+", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
+# - {count: "30", specialCharacter: "+", info: "exhibition booths", detail: "Sponsors, Innovative projects from universities, startup & tech companies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

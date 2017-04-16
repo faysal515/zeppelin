@@ -141,7 +141,7 @@ ticketsOffers:
   price: "3000"
   priceCurrency: "BDT"
   ticketsNumber: "100"
-  ribbon: "-30%"
+  #ribbon: "-30%"
   buyButtonLink: "http://ticketchai.com/details/646/Droidcon-Dhaka-2017"
   buyButtonText: "Buy Now"
   ticketContentList: ["Personal meeting with specific VIP, foreign/Local speakers and others", "Access to enter any session","Discount for first 20 people only till 20th March"]
@@ -153,7 +153,7 @@ ticketsOffers:
   price: "2000"
   priceCurrency: "BDT"
   ticketsNumber: "400"
-  ribbon: "-25%"
+  #ribbon: "-25%"
   featured: true
   buyButtonLink: "http://ticketchai.com/details/646/Droidcon-Dhaka-2017"
   buyButtonText: "Buy Now"
@@ -168,7 +168,7 @@ ticketsOffers:
   ticketsNumber: "200"
   buyButtonLink: "http://ticketchai.com/details/646/Droidcon-Dhaka-2017"
   buyButtonText: "Buy Now"
-  ribbon: "-20%"
+  #ribbon: "-20%"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Requires a valid student ID","Access to both days","Discount for first 80 people only till 20th March" ]
   validFrom: "2017-03-03T10:00"

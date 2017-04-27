@@ -1,7 +1,7 @@
 -
   group: "T-Shirt Sponsor"
   elements:
-    - {name: "Unifox Digital Media", description: "Unifox Digital Media", link: "https://www.facebook.com/unifoxdigitalmedia/", imageUrl: "unifox.png"}
+    - {name: "Unifox Digital Media", description: "Unifox Digital Media", link: "https://www.facebook.com/unifoxdigitalmedia/", imageUrl: "unifox.jpg"}
     #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 
 -
